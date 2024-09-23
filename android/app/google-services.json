@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299681730048",
+    "project_id": "virgin-ia-28f40",
+    "storage_bucket": "virgin-ia-28f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299681730048:android:091c553e2f7409ccf192e5",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxVY4dm2KPvramSXs2-2waANH0APj-90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
